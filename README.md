@@ -6,4 +6,4 @@
 ------
 
 ## UNTUK TERMUX & PANEL
-Download sc nya [disini]()
+Download sc nya [disini](https://github.com/zeeoneofficial/bot-wa-confess/archive/refs/heads/confess.zip)
